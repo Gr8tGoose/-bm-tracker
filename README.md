@@ -1,2 +1,2 @@
-# -bm-tracker
+# bm-tracker
 BM Tracker for busy Doctors
